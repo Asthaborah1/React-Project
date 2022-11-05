@@ -3,9 +3,9 @@ import "./Features.css"
 import { FcAssistant } from "react-icons/fc";
 import Button from "../UI/button/Button"
 import "../UI/button/Button.css"
-import Service1 from "../../assets/service1.png"
-import Service2 from "../../assets/service2.png"
-import Service3 from "../../assets/service3.png"
+import Service1 from "../assets/service1.png"
+import Service2 from "../assets/service2.png"
+import Service3 from "../assets/service3.png"
 import Feature from './Feature';
 import { featurelist } from "./data.js"
 

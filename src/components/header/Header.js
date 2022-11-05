@@ -2,7 +2,7 @@ import React from 'react'
 import "./Header.css"
 import Button from "../UI/button/Button"
 import "../UI/button/Button.css"
-import communication from "../../assets/home2.png"
+import communication from "../assets/home2.png"
 import { BsMouse } from "react-icons/bs";
 
 const Header = () => {

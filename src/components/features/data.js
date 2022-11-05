@@ -7,19 +7,19 @@ export const featurelist = [
         id: 1,
         icon: <FaAccessibleIcon color = "#0a1930" size = {22}/>,
         heading: "GROWTH MARKETING",
-        text: "Bosdiwalo Padh kya rahe ho register kro bc !!, are bhen le lodo resgister kro fasty fasty",
+        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     },
     {
         id: 2,
         icon: <SiDatabricks color = "#0a1930" size = {22}/>,
         heading: "ONLINE BRANDING",
-        text: "Teri gaand me sutli bomb padh raha hai bc bhot 80tude tum logo me , i will hate u 4 ever!!",
+        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     },
     {
         id: 3,
         icon: <MdConnectWithoutContact color = "#0a1930" size = {22}/>,
         heading: "ANIMATED ADS",
-        text: "Pranay ke bhakt lagte ho ishleye sidhi baat samaj nai aati uske code language me baat samjhegi kya?? bhai register kro every1 nd i9 u guyz have very much 80tud huh!!",
+        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     },
 
 ]

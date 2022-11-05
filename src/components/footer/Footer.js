@@ -9,24 +9,24 @@ const Footer = () => {
         <footer id="footer">
             <div className="container footer">
                 <div>
-                    <div><img src="" alt="pranaylodu"></img></div>
-                    <div className="astha1"><p className = "tatti">Pranay lodu we support u with 0 80tude , humne pal pose ke bada kia hai uska i mean usko galat mat socho , jaise we support him waise support us 4ever. Every1 pls support r porny isstar . I 9 u r phul of 80tud. Thta's ol I want 2 sy!</p></div>
+                    <div><img src="" alt=""></img></div>
+                    <div className="astha1"><p className = "">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div>
                 </div>
 
                 <div className="footer-box">
                     <h4>Contact Us</h4>
                     <div className="footer-contact">
                         <p>
-                            <FaMapMarkerAlt /> &nbsp; Address : pranay ka potty house.
+                            <FaMapMarkerAlt /> &nbsp; Address : xyz.
                         </p>
                         <p>
-                            <FaFax /> &nbsp; Fax: +916969696969
+                            <FaFax /> &nbsp; Fax: +910000000000
                         </p>
                         <p>
-                            <FaEnvelope /> &nbsp; Email: pranaylodutatti80tude@gmail.com
+                            <FaEnvelope /> &nbsp; Email: pranay123@gmail.com
                         </p>
                         <p>
-                            <FaGlobe /> &nbsp; Website: www.tattipadu.com
+                            <FaGlobe /> &nbsp; Website: www.xyz.com
                         </p>
                     </div>
                 </div>

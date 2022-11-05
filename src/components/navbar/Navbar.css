@@ -1,23 +1,17 @@
 .Navbar{
     /* background: linear-gradient(to right , #1c5fed , #446ab7); */
-    background: var(--color-white);
+    background: 
 }
 
 .navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 8rem;
 }
-    
 
-.logo-text img{
-    width: 10%;
-    position: absolute;
-    left: 0;
-    top: 0;
-    padding-top: 2rem;
-    padding-left: 2rem;
+.logo-text-doco{
+    height: 50%;
+    width: 40%;
 }
 
 .nav-side{

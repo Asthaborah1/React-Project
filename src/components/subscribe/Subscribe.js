@@ -2,6 +2,8 @@ import React from 'react'
 import "./Subscribe.css"
 import {TiSocialGooglePlus} from "react-icons/ti";
 import {FaFacebookF, FaTwitter, FaInstagram} from "react-icons/fa";
+// import {instagram }from ".../assets/instagram.jpg/";
+// import {facebook}from "../assets/facebook.png/"
 
 const Subscribe = () => {
     return (
@@ -15,18 +17,14 @@ const Subscribe = () => {
                 </div>
             </form>
             <div className = "social-icons">
-                <div className = "social-icon">
-                    <TiSocialGooglePlus/>
-                </div>
-                <div className = "social-icon">
-                    <FaFacebookF/>
-                </div>
-                <div className = "social-icon">
-                    <FaTwitter/>
-                </div>
-                <div className = "social-icon">
-                    <FaInstagram/>
-                </div>
+            <div class="social-icons">
+                {/* <a href="#"><img src={facebook} alt="home" /></a>
+                 <a href="#"><img src={instagram} alt="home" /></a>
+                <a href="#"><img src={instagram} alt="home" /></a>
+                <a href="#"><img src={instagram} alt="home" /></a>
+                <a href="#"><img src={instagram} alt="home" /></a>
+                <a href="#"><img src={instagram} alt="home" /></a> */} 
+            </div>
             </div>
         </div>
        </section>

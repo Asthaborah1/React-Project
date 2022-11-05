@@ -2,17 +2,17 @@ export const questions = [
     {
         id: 1,
         title: "What is Doco App about?",
-        answer: "Bhosdiko , abhi tak node react aata nai baat karte ho doco ki chalo padahi karo",
+        answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
     },
     {
         id: 2,
         title: "How can I get started with Doco?",
-        answer: "hug diya tere peeche peeche mene hug dia , me hug dia , kuch to hai tere mere hugne me kuch to hai , me huge bina na reh saku",
+        answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
     },
     {
         id: 3,
         title: "Who are huge in this project ?",
-        answer: "Porny hagu , Nunu star , lodu beti ka and bootyfull 80tud wali astha hehe ",
+        answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
     },
 
 ]

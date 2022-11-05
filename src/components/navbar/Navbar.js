@@ -4,7 +4,7 @@ import { AiOutlineBars } from "react-icons/ai";
 import { RiCloseLine } from "react-icons/ri";
 import Button from "../UI/button/Button"
 import "../UI/button/Button.css"
-import logo from "../../assets/lockup.png"
+import logo from "../assets/lockup.png"
 
 const Navbar = () => {
     const [showMenu, setShowMenu] = useState(false);
@@ -17,7 +17,7 @@ const Navbar = () => {
         // NAVBAR SECTION
         <div className="Navbar">
             <nav className="container navbar">
-                <div className="logo-text" >
+                <div className="logo-text-doco" >
                     <img src={logo} alt="lockup" />
                 </div>
                 <div>
